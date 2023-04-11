@@ -1,3 +1,17 @@
 1. Echo 'Hello World'
 2. mkdir new_dir
 3. rmdir new_dir
+4. cp sed.txt ../lorem-copy/
+5. cp at.txt lorem.txt ../lorem-copy/;
+6. cat sed.txt
+7. cat at.txt lorem.txt
+8. $ head -3 sed.txt
+9. tail -3 sed.txt
+10. echo "Homo homini lupus" >> sed.txt
+11. tail -3 sed.txt
+12. sed 's/ET/et/' at.txt
+13. whoami
+14. pwd
+15. git ls-files '*.txt'
+16. cat sed.txt | wc
+17. git ls-files "./*.txt" | wc -l
